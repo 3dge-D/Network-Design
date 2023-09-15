@@ -1,14 +1,6 @@
-**Network Design Proposal**
+## **Network Design Proposal**
 
-**Part1**
-
-**Prepared for:**
-
-**University of Maryland University College**
-
-**Prepared by:**
-
-**David Edge**
+## **Part1**
 
 ##  I. Physical Network Design
 
@@ -46,8 +38,7 @@ server rooms. With this topology, it will be easy to locate points of
 failure. \[1\] Additionally this topology will make it easy to expand
 the network if needed.
 
-![](media/image1.jpg){width="5.5458814523184605in"
-height="2.3747747156605423in"}
+![](https://i.imgur.com/pefxipO.jpg)
 
 **B. Network Media**
 
@@ -60,9 +51,7 @@ Electromagnetic Interference. We will need cabling that can withstand
 high amounts of EMI. Shielded or Fiber cabling would be the only good
 candidates in this particular network.
 
-**Network Diagram** ![](media/image3.jpg){width="6.306356080489938in"
-height="2.8828116797900263in"}![](media/image2.jpg){width="7.436793525809274in"
-height="2.9617311898512684in"}
+**Network Diagram** ![](https://i.imgur.com/nViszlj.jpg)![](https://i.imgur.com/rXIwhNV.jpg)
 
 **Proposed Network Media**
 
@@ -371,17 +360,9 @@ https://www.neweggbusiness.com/product/product.aspx?item=9b-59-155-432
 \[15\]
 [[https://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-Server-2016-Essentials/productID.5074016900]{.underline}](https://www.microsoftstore.com/store/msusa/en_US/pdp/Windows-Server-2016-Essentials/productID.5074016900)
 
-**Network Design Proposal**
+## **Network Design Proposal**
 
-**Part 2**
-
-**Prepared for:**
-
-**University of Maryland University College**
-
-**Prepared by:**
-
-**David Edge**
+## **Part 2**
 
 **II. Network Addresses Design**
 
@@ -435,17 +416,9 @@ follows:
 
 ##  
 
-**Network Design Proposal**
+## **Network Design Proposal**
 
-**Part 3**
-
-**Prepared for:**
-
-**University of Maryland University College**
-
-**Prepared by:**
-
-**David Edge**
+## **Part 3**
 
 **III. Network Services Design**
 
